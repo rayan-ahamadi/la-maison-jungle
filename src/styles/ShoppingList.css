@@ -1,0 +1,38 @@
+.lmj-shopping-list {
+	width: 100%;
+}
+
+.lmj-plant-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.lmj-plant-buttons-div{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.lmj-plant-modal-content {
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.lmj-plant-modal-content img{
+	height: 15vh;
+}
+
+.lmj-plant-modal-careScale{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 8px;
+}
+
+.lmj-plant-modal-careScale img{
+	height: 15px;
+}
